@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.19891081
 # Industrialized Ostracism Hypothesis (IOH) - Simulation Model
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
